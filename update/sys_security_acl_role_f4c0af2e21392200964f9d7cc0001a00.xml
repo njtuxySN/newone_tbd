@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-14 20:28:14</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f4c0af2e21392200964f9d7cc0001a00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_xxxx_abc_only.x_xxxx.user</sys_name>
+        <sys_package display_value="xxxx" source="x_xxxx">b8682a5255312200964f94e1f84976b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="xxxx">b8682a5255312200964f94e1f84976b8</sys_scope>
+        <sys_security_acl display_value="x_xxxx_abc_only">7cc06f2e21392200964f9d7cc0001afd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f4c0af2e21392200964f9d7cc0001a00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-14 20:28:14</sys_updated_on>
+        <sys_user_role display_value="x_xxxx.user" name="x_xxxx.user">f868669255312200964f94e1f8497644</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

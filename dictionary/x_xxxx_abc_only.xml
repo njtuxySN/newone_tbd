@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="abc_only" max_length="40" name="x_xxxx_abc_only" type="collection"/>
+</database>
